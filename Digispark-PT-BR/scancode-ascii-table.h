@@ -1,7 +1,3 @@
-//ARQUIVO MODIFICADO PARA OPERAR EM ABNT2
-//ainda possue problemas com ? e Ç
-
-
 #include <avr/pgmspace.h>
 // Lookup table to convert ascii characters in to keyboard scan codes
 // Format: most signifficant bit indicates if scan code should be sent with shift modifier
